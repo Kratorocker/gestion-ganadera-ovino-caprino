@@ -1,0 +1,1 @@
+Django\ndjangorestframework\npsycopg2-binary
